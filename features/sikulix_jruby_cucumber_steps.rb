@@ -2,7 +2,6 @@
 # Step Definitions
 # SikuliX, JRuby, Cucumber on MacOS
 # Written by Richard Foster
-# Date: 15/03/2016
 #########################################################
 
 Given /^I click on "(.*?)"$/ do |bitmap|

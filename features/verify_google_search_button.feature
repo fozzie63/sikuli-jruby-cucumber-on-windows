@@ -1,8 +1,7 @@
 #########################################################
 # Feature File
-# SikuliX, JRuby, Cucumber on MacOS
+# SikuliX, JRuby, Cucumber on Windows
 # Written by Richard Foster
-# Date: 15/03/2016
 #########################################################
 
 Feature: Open Chrome Browser and goto www.google.co.uk (original I know!)
